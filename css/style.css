@@ -118,7 +118,7 @@ a:focus{
 
 .intro {
    /* The image used */
-   background-image: url("../images/header.jps");
+   background-image: url("../images/header.jpg");
 
    /* Set a specific height */
    min-height: 400px;
@@ -169,7 +169,7 @@ overflow: hidden;
 }
 
 .text{
-  text-align: center;
+  align-self: center;
   max-height: 25vh;
   overflow: scroll;
 }
